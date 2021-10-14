@@ -1,6 +1,6 @@
-resource_group_name = "demoresourcegroupname"
-eventhub_namespace_name = "acceptanceTestEventHubNamespace"
-eventhub_name = "acceptanceTestEventHub"
+resource_group_name = "ttresoucegroupdemo"
+eventhub_namespace_name = "tteventhubnamespacedemo"
+eventhub_name = "tteventhubdemo"
 location = "eastus2"
 sku = "Standard"
 tags = {
